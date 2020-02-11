@@ -1,0 +1,51 @@
+<html>
+<head>
+<center>
+<tittle><b><big>RESUME</big></b></tittle></center>
+<hr/>
+</head>
+<body style="background-color:orange">
+<center>
+<h1><b><big>SIVA SAI KUMAR</b></big></h1></center>
+ <center>
+
+ 	<table border="1"cellpadding="2"width="10"cellspacing="10"align="center">
+	
+<tr>
+ 	
+ 	<td >9182900687</td>
+	<td >sivaboina158@gmail.com</td>
+ 	<td>Bangalore,karnataka</td>
+	
+</tr></table></center>
+<h3><b><big>Working Experince</b></big></h3>
+<ul TYPE="square">
+	<li>JAVA ,C,<br /> Advance java,<br /><ul><li><Strong>Techinical Skills</strong><br /> Printers Repairing,<br>networking probleming solving </li></ul></li>
+<h2><big>Education Qualification</big></h2>
+<table color="black"border="1"cellpadding="2"width="10"cellspacing="10"align="center">
+ 	<caption align="bottom"></caption>
+ 	<tr>
+ 	<th>Qualification</th>
+ 	<th>board</th>
+ 	<th>Percentage</th>
+ 	<th>Year</th>
+ 	</tr>
+ 	<td>10th</td>
+ 	<td>SSC</td>
+ 	<td>79%</td>
+ 	<td>2015</td>
+ 	</tr>
+ 	<tr>
+ 	<td>12th</td>
+ 	<td> Andhra Pradesh State Board</td>
+ 	<td>93%</td>
+ 	<td>2017</td>
+ 	</tr>
+ 	<tr>
+ 	<td>B Tech</td>
+ 	<td>Karnataka State Board</td>
+ 	<td>75%</td>
+ 	<td>2021</td>
+ 	</tr>
+ 	
+</body>
