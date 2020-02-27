@@ -1,0 +1,18 @@
+<html>
+<head>
+	
+<link rel="stylesheet"type="text/css" href="mystle.css"/>
+</head>
+<body>
+<h1 id="id1">First heading</h1>
+<h2>second heading</h2>
+<img src="/home/Sem6B10/0665/CSS/index1.jpeg"><br/>
+<div>
+<center>
+
+<p><big>SIVA is a Student of Presidency university</big></p></center>
+<p>paragraph of second heading</p>
+</div>
+<p>Display 
+</body>
+</html>
