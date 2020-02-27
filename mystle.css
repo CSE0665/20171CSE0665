@@ -1,0 +1,31 @@
+	body
+{
+background-repeat:repeat;
+
+
+	background-image:url("ss.jpeg");
+background-attachment:fixed;
+}
+	h1{color:green;}
+	p{color:black;font-style:italic;font-family:georgia,garamond,serif;text-indent:1cm;letter-spacing:10px;direction:rtl;text-decoration:underline;text-shadow:2px 1px 2px green;}
+	img:hover 
+ 	{border:3px dashed green;height:100px;height:50%;opacity:7.4;filter:alpha(opacity=40);}
+	#id1{border-style:dotted;}
+        p.one{
+	      border-style:solid;
+	      border-width:2px;
+		border-color:red;
+	     }
+	 p.two{
+	      border-style:solid;
+	      border-width:medium;
+	     }
+	 p.three{
+	      border-style:solid;
+	      border-color:red green blue yellow;border-top-style:dotted;border-rght-style:solid;border-bottom-style:dotted;border-left-style:solid;margin:25px 50px 75px 100px;
+	     }
+	div{
+	    width:300px; 	  
+ 	    margin:auto;
+  	    border:1px solid red;}
+}
