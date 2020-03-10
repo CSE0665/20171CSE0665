@@ -20,16 +20,18 @@
 <li>siva</li>
 <li>sirish</li>
 <li>raja</li></ul>
-
+<div id="grad1"></div>
+ <div id="grad2"></div>
+<p><strong>India Is Short of 0.5 Million Policemen But 47,000 Protect VIPs</strong></p>
 <p>
 India Is Short of 0.5 Million Policemen But 47,000 Protect VIPs
 January 8, 2013
 Recent Posts
 
-   <span class="a"> ‘We Will Not Accept Any Decision That Undermines The State’s Fiscal Domain’
+   ::‘We Will Not Accept Any Decision That Undermines The State’s Fiscal Domain’
     Renewable Energy Sector Employed 432,000 Indians In 2017, Up 12% From 2016
-    Shoddy Sanitary Napkins Impact Menstrual Hygiene Drive
-    In Kashmir Valley, 74% More People Certified Disabled During PDP-BJP Rule
+    :Shoddy Sanitary Napkins Impact Menstrual Hygiene Drive
+     <span class="a">In Kashmir Valley, 74% More People Certified Disabled During PDP-BJP Rule
     India’s Richest Young Women Fear Public Transport Most; Poorest Fear Cinema Halls</span>
 
 Search in Archive
@@ -40,16 +42,17 @@ Tweets about "IndiaSpend"
 Failed to display MailChimp Form
 Views
 26063
-
+<div id="grad"></div>
  
-<span class="b">Highlights
+Highlights
 
 
 * States spent around Rs 2 lakh crore over the last five years for policing but still has a shortage of 0.5 million policemen
 
-* Around 47,000 police personnel deployed to protect 14,842 special persons
+* <intro>Around 47,000 police personnel deployed to protect 14,842 special persons</intro>
 
-*  UP, Maharashtra and Gujarat have the highest difference between sanctioned policemen and actual policemen on duty</span>
+* <span class="b"> UP, Maharashtra and Gujarat have the highest difference between sanctioned policemen and actual policemen on duty</span>
+
 
  
 
@@ -63,7 +66,20 @@ Views
 <a class="three" href="https://en-gb.facebook.com/login/">whatsapp</a>
 
 <a class="four" href="https://en-gb.facebook.com/login/">nothing</a>
-
-
+<span class="d">
+<ul>
+  <li><a href="#home">Home</a></li>
+	<li>    </li>
+  <li><a href="#contact">News</a></li>
+<li>      </li>
+  <li><a href="#About us">Contact</a></li>
+  
+</ul>
+</span>
+<div class="a">
+<div class="b">
+This is color text is placed in the transparntbox
+</div>
+</div>
 </body>
 </html>
